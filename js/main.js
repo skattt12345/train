@@ -1,3 +1,6 @@
+
+
+$(document).ready(function(){
 console.log(123);
 class Animal{
 
@@ -31,3 +34,7 @@ const bear = new Animal("bear","brown")
 const animals = new Zoo();
 animals.addZoo(cat)
 animals.addZoo(bear)
+
+
+
+});
